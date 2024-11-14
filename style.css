@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    /*padding é o espaço interno da caixa, entre a borda e o elemento*/
+    padding: 0;
+    /*box sizing é a medida da caixa, que é estipulada abaixo em cada caixa específica, tipo na caixa container*/
+    box-sizing: border-box;
+  }
+
+  h1 {
+    font-family: "Young Serif";
+  }
+  
