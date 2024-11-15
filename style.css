@@ -12,6 +12,8 @@ body {
   width: 375px;
   display: flexbox;
   border: 2px solid blue;
+  font-family: "Outfit", sans-serif;
+  color: #5F574E;
 }
 
 /*imagem header*/
@@ -21,7 +23,8 @@ body {
 }
 
 #container1 {
-  padding: 32px;
+  /*border: 2px solid chartreuse;*/
+  margin: 32px 30px auto 30px;
 }
 
 /*título da receita*/
@@ -30,7 +33,26 @@ h1 {
   /*colocar serif depois serve como backup para, caso de algo errado com a original, já carregue alguma parecida*/
   font-weight: 400;
   text-align: left;
-
+  color: #302D2C
 }
 
+#container1 p {
+  padding: 16px 0px;
+  
+}
 
+.container2 {
+  border: 2px solid purple;
+  background-color: #FFF5FA;
+  padding: 20px;
+}
+
+.container2 h2 {
+  color: #7B284F;
+  padding-bottom: 16px;
+}
+
+.container2 li {
+  /*padding: 0px 20px 10px 10px;*/
+  list-style-position: outside;
+}

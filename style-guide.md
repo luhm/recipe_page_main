@@ -13,15 +13,15 @@ The designs were created to the following widths:
 
 - White: hsl(0, 0%, 100%)
 
-- Stone 100: hsl(30, 54%, 90%)
-- Stone 150: hsl(30, 18%, 87%)
-- Stone 600: hsl(30, 10%, 34%)
-- Stone 900: hsl(24, 5%, 18%)
+- Stone 100: hsl(30, 54%, 90%) (bege) #F3E6D8
+- Stone 150: hsl(30, 18%, 87%) (bege escuro - background desktop) #E4DED8
+- Stone 600: hsl(30, 10%, 34%) (corpo) #5F574E
+- Stone 900: hsl(24, 5%, 18%) (título) #302D2C
 
-- Brown 800: hsl(14, 45%, 36%)
+- Brown 800: hsl(14, 45%, 36%) (tópicos principais) #854632
 
-- Rose 800: hsl(332, 51%, 32%)
-- Rose 50: hsl(330, 100%, 98%)
+- Rose 800: hsl(332, 51%, 32%) (preparation title) #7B284F
+- Rose 50: hsl(330, 100%, 98%) (background preparation) #FFF5FA
 
 ## Typography
 
