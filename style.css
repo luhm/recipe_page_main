@@ -42,9 +42,10 @@ h1 {
 }
 
 .container2 {
-  border: 2px solid purple;
+  /*border: 2px solid purple;*/
   background-color: #FFF5FA;
   padding: 20px;
+  margin-top: 16px;
 }
 
 .container2 h2 {
@@ -53,6 +54,21 @@ h1 {
 }
 
 .container2 li {
-  /*padding: 0px 20px 10px 10px;*/
-  list-style-position: outside;
+  padding: 0px 20px 10px 10px;
+}
+
+.container3 {
+  border: 2px solid yellow;
+  padding: 26px 0px;
+}
+
+.container3 h2 {
+  font-family: "Young Serif", serif;
+  font-weight: 500;
+  color: #854632;
+  padding-bottom: 10px;
+}
+
+.container3 li {
+  padding: 0px 0px 10px 10px;
 }
