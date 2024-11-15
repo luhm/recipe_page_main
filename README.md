@@ -37,3 +37,9 @@ I have decided to work from top to bottom on this project, so I analysed the des
 I started with the image on the header of the page and sized it to the mobile widht. I had a bit of dificult since the img wouldn't sized properly, but it worked out in the end.
 
 I also stylised the name of the recipe with the proper font-family and adjusted padding and so.
+
+<u>**15/11/2024**</u>
+
+Today I formatted the first paragraph with the proper color, size, font and paddings. I put the overall font-family and font-color in the css `body{}` so it applies to all the text I'm working with, and I have to adjust just the title ones to the specif color and font.
+
+I had much difficult with the `<li>` tag cause I couldn't find how to format the text correctly, but I decide to continue the main topics and get back on that later on the project.
