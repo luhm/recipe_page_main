@@ -26,7 +26,8 @@ body {
 
 /*título da receita*/
 h1 {
-  font-family: "Young Serif";
+  font-family: "Young Serif", serif;
+  /*colocar serif depois serve como backup para, caso de algo errado com a original, já carregue alguma parecida*/
   font-weight: 400;
   text-align: left;
 

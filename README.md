@@ -26,9 +26,14 @@ All design used are inside the `/design` folder, both mobile and desktop verison
 ## My timeline
 
 <u>**14/11/2024**</u>
-Since I am just starting to learn the basic tools to web development, I decided to use only HTML, CSS and JS. This can be changed at any time, and I will add here the changes as I go.
 
 All the design images are in `.jpg` so I'll have to use my skills to build the page as similar as the given design as I can.
 
+Since I am just starting to learn the basic tools to web development, I decided to use only HTML, CSS and JS. This can be changed at any time, and I will add here the changes as I go.
+
 There is a `.HTML` file that contains a basic structure and the recipe itself.
-I have decided to work from top to bottom on this project, so I analysed the design and the `.HTML` file to decide where to begin.
+I have decided to work from top to bottom on this project, so I analysed the design and the `.HTML` file to decide where to begin. I also decided to go *Mobile first*.
+
+I started with the image on the header of the page and sized it to the mobile widht. I had a bit of dificult since the img wouldn't sized properly, but it worked out in the end.
+
+I also stylised the name of the recipe with the proper font-family and adjusted padding and so.
