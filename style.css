@@ -6,7 +6,30 @@
     box-sizing: border-box;
   }
 
-  h1 {
-    font-family: "Young Serif";
-  }
-  
+/*------------------PARA MOBILE------------------*/
+
+body {
+  width: 375px;
+  display: flexbox;
+  border: 2px solid blue;
+}
+
+/*imagem header*/
+#container0 img {
+  height: auto;
+  width: 373px;
+}
+
+#container1 {
+  padding: 32px;
+}
+
+/*título da receita*/
+h1 {
+  font-family: "Young Serif";
+  font-weight: 400;
+  text-align: left;
+
+}
+
+
