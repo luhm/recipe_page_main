@@ -43,3 +43,9 @@ I also stylised the name of the recipe with the proper font-family and adjusted 
 Today I formatted the first paragraph with the proper color, size, font and paddings. I put the overall font-family and font-color in the css `body{}` so it applies to all the text I'm working with, and I have to adjust just the title ones to the specif color and font.
 
 I had much difficult with the `<li>` tag cause I couldn't find how to format the text correctly, but I decide to continue the main topics and get back on that later on the project.
+
+<ins>**18/11/2024**
+
+I had only few minutes to work on this project today, so I decided to reorganize my `.css` with another approach based on the [best practices in CSS](https://www.notion.so/luhmestudos/BP-CSS-13f3c005826180018f15dcc9d35d6c7a) that I've studied these past days.
+
+I also learn how to put a line between paragraphs using `<hr>`.
