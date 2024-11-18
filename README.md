@@ -19,13 +19,13 @@ The design can be seen on the top of this page :P
 
 All design used are inside the `/design` folder, both mobile and desktop verisons.
 
-- All the assets required are in the `/assets` folder. 
+- All the assets required are in the `/assets` folder.
 - There are some font files in the `/assets` folder as well, but it is possible to incorporate google fonts.
 - The `style-guide.md` file contains the information needed to complete the project, such as color palette and fonts.
 
 ## My timeline
 
-<u>**14/11/2024**</u>
+<ins>**14/11/2024**
 
 All the design images are in `.jpg` so I'll have to use my skills to build the page as similar as the given design as I can.
 
@@ -38,7 +38,7 @@ I started with the image on the header of the page and sized it to the mobile wi
 
 I also stylised the name of the recipe with the proper font-family and adjusted padding and so.
 
-<u>**15/11/2024**</u>
+<ins>**15/11/2024**
 
 Today I formatted the first paragraph with the proper color, size, font and paddings. I put the overall font-family and font-color in the css `body{}` so it applies to all the text I'm working with, and I have to adjust just the title ones to the specif color and font.
 
