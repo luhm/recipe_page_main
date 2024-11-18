@@ -12,6 +12,7 @@ body {
   width: 375px;
   display: flexbox;
   border: 2px solid blue;
+  margin: auto; /*esse margin auto aqui no body coloca ele centralizado na página e não no canto esquerdo*/
   font-family: "Outfit", sans-serif;
   color: #5F574E;
 }
@@ -69,6 +70,6 @@ h1 {
   padding-bottom: 10px;
 }
 
-.container3 li {
+.container3 ul li {
   padding: 0px 0px 10px 10px;
 }
