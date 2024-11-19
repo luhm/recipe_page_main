@@ -63,11 +63,12 @@ h1 {
   padding: 26px 0px;
 }
 
-.container3 h2 {
+h2 {
   font-family: "Young Serif", serif;
   font-weight: 500;
   color: #854632;
   padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .container3 ul li {
