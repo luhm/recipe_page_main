@@ -34,44 +34,58 @@ h1 {
   /*colocar serif depois serve como backup para, caso de algo errado com a original, já carregue alguma parecida*/
   font-weight: 400;
   text-align: left;
-  color: #302D2C
+  color: #302D2C;
+  margin: 32px 30px auto 30px;
 }
 
-#container1 p {
+p {
   padding: 16px 0px;
-  
+  margin: auto 30px auto 30px;
 }
 
-.container2 {
+/*tempo de preparação*/
+.prep-time-box {
   /*border: 2px solid purple;*/
   background-color: #FFF5FA;
   padding: 20px;
-  margin-top: 16px;
+  margin: 16px 30px;
 }
 
-.container2 h2 {
+.prep-time-box h2 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
   color: #7B284F;
   padding-bottom: 16px;
 }
 
-.container2 li {
+.prep-time-box li {
   padding: 0px 20px 10px 10px;
 }
 
-.container3 {
+/*Ingredientes*/
+.ingredients {
   /*border: 2px solid yellow;*/
-  padding: 26px 0px;
+  padding: 10px 0px;
 }
 
-h2 {
+.ingredients h2 {
   font-family: "Young Serif", serif;
   font-weight: 500;
   color: #854632;
   padding-bottom: 10px;
-  padding-top: 10px;
+  margin: auto 30px auto 30px;
 }
 
-.container3 ul li {
-  padding: 0px 0px 10px 10px;
+.ingredients ul {
+  padding: 0px 20px 10px 24px;
+  margin: auto 30px auto 30px;
 }
+
+.ingredients ul li{
+  padding-top: 10px;
+  padding-left: 16px;
+}
+
+/*Instruções*/
+
 
