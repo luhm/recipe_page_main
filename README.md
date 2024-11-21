@@ -57,3 +57,5 @@ I worked on the structure of this project, the style of titles, the table and `<
 <ins>**21/11/2024**
 
 I worked on the nutrition's table style. I had much trouble making only the bottom border appear, but I finally did it! I had to make every line of the table one table itself and, after that, put an `id` on the last "table/line" to make its border non existant. I think there's maybe a better way, but I couldn't find neither in my notes either online. I will search more deeply in the future.
+
+I also learnt how to use pseudo-elements!
