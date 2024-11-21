@@ -124,12 +124,15 @@ p {
   text-align: left;
   padding-left: 20px;
   border-color: #302D2C;
+  border-bottom: 1px solid rgba(95, 87, 78, 20%);
 }
 
 .th-table2 {
+  width: 155px;
   color: #854632;
   font-weight: 600;
   padding: 0px 0px 10px 0px;
+  text-align:inherit;
 }
 
 .nutrition h2 {
