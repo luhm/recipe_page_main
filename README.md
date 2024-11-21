@@ -49,3 +49,7 @@ I had much difficult with the `<li>` tag cause I couldn't find how to format the
 I had only few minutes to work on this project today, so I decided to reorganize my `.css` with another approach based on the [best practices in CSS](https://www.notion.so/luhmestudos/BP-CSS-13f3c005826180018f15dcc9d35d6c7a) that I've studied these past days.
 
 I also learn how to put a line between paragraphs using `<hr>`.
+
+<ins>**20/11/2024**
+
+I worked on the structure of this project, the style of titles, the table and `<p>` tag. Now I have to perfect some style details such as numbers on 'Instructions' section.
