@@ -106,9 +106,15 @@ p {
   margin: auto 16px auto 30px;
 }
 
+.instructions ol li::marker {
+  color: #854632;
+  font-weight: 600;
+  font-size: 14px;
+}
+
 .instructions ol li{
   padding-top: 10px;
-  padding-left: 12px;
+  padding-left: 12px;;
 }
 
 /*linhas divisórias*/
