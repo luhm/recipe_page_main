@@ -8,24 +8,22 @@
 
 /*------------------PARA MOBILE------------------*/
 
-body {
-  width: 375px;
+#test {
+  max-width: 588px;
+  width: 100%;
   display: flexbox;
   /*border: 2px solid blue;*/
   margin: auto; /*esse margin auto aqui no body coloca ele centralizado na página e não no canto esquerdo*/
   font-family: "Outfit", sans-serif;
   color: #5F574E;
+  border: 1px solid chartreuse;
 }
 
 /*imagem header*/
 #container0 img {
   height: auto;
-  width: 373px;
-}
-
-#container1 {
-  /*border: 2px solid chartreuse;*/
-  margin: 32px 30px auto 30px;
+  max-width: 588px;
+  width: 100%;
 }
 
 /*título da receita*/
@@ -172,5 +170,15 @@ p {
   text-align: center;
   font-weight: 300;
   font-size: 10px;
+}
+
+/*at-rule para config de desktop*/
+@media (min-width: 500px) {
+  #test {
+    background-color: white;
+  }
+  body {
+    background-color: #F3E6D8;
+  }
 }
 
