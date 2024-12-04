@@ -16,7 +16,7 @@
   margin: auto; /*esse margin auto aqui no body coloca ele centralizado na página e não no canto esquerdo*/
   font-family: "Outfit", sans-serif;
   color: #5F574E;
-  border: 1px solid chartreuse;
+  /*border: 1px solid chartreuse;*/
 }
 
 /*imagem header*/
